@@ -1,14 +1,10 @@
 POST, GET, PUT E DELETE - > PessoaController
 
-![POST](IMG-FUNCIONAMENTO/POST.png)
+![mongoDB](img-previsao-tempo/img1.png)
 
-![GET 1](IMG-FUNCIONAMENTO/GET.png)
+![navegador](img-previsao-tempo/img2.png)
 
-![PUT](IMG-FUNCIONAMENTO/PUT.png)
 
-![GET 2](IMG-FUNCIONAMENTO/GET2.png)
-
-![DELETE](IMG-FUNCIONAMENTO/DELETE.png)
 
 
 
