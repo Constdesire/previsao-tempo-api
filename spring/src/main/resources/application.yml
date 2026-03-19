@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: api-tempo
+  data:
+    mongodb:
+      auto-index-creation: true
+      uri: mongodb://localhost:27017/fatec
